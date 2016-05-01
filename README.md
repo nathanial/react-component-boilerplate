@@ -1,2 +1,1 @@
-# react-component-boilerplate
-Boilerplate for a react component library
+# React Component Boilerplate
